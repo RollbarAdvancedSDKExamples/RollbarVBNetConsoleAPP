@@ -1,0 +1,16 @@
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\RollbarConsoleAPP.exe.config
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\RollbarConsoleAPP.exe
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\RollbarConsoleAPP.pdb
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\RollbarConsoleAPP.xml
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.Resources.resources
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.vbproj.GenerateResource.cache
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.vbproj.CoreCompileInputs.cache
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.exe
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.xml
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.pdb
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\Rollbar.dll
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\bin\Debug\Rollbar.xml
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.vbproj.CopyComplete
+C:\Users\nkrug\source\repos\RollbarConsoleAPP\obj\Debug\RollbarConsoleAPP.vbproj.AssemblyReference.cache
